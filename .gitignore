@@ -35,3 +35,14 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Lab cyber — artefacts de VM et images (ne pas versionner) #
+#############################################################
+*.vdi
+*.vmdk
+*.vhd
+*.ova
+*.ovf
+*.nvram
+*.vbox-prev
+# ISO/archives déjà couverts plus haut (*.iso, *.gz, *.zip, *.7z…)
